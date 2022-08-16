@@ -1,4 +1,4 @@
-# EXEMPO 5 - Fatorial de um número
+# EXEMPLO 5 - Fatorial de um número
 '''
 Crie um programa que receba um número e imprime o seu fatorial.
 # Método 5Q's para montar um algoritmo:
